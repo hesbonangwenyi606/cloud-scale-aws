@@ -8,5 +8,13 @@ terraform {
 }
 
 provider "aws" {
-  region = var.region
+  access_key = "test"       # dummy value for LocalStack
+  secret_key = "test"       # dummy value for LocalStack
+  region     = var.region
+
+  endpoints {
+    apigateway = "http://localhost:4566"
+    lambda     = "http://localhost:4566"
+    dynamodb   = "http://localhost:4566"
+  }
 }
