@@ -12,7 +12,6 @@ This project allows you to manage multi-region cloud infrastructure with auto-sc
 - Notifications and alerts
 
 ## Tech Stack
-
 - **Frontend:** React, TypeScript, Vite, Tailwind CSS
 - **Backend:** (if applicable, e.g., Node.js + Express + MongoDB)
 - **Version Control:** Git, GitHub
