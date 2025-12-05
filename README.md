@@ -17,7 +17,6 @@ This project allows you to manage multi-region cloud infrastructure with auto-sc
 - **Version Control:** Git, GitHub
 
 ## Installation
-
 1. Clone the repository:
 
 git clone git@github.com:hesbonangwenyi606/cloud-scale-aws.git
