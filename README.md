@@ -22,7 +22,7 @@ git clone git@github.com:hesbonangwenyi606/cloud-scale-aws.git
 cd cloud-scale-aws
 Install dependencies:
 
-*npm install*
+**npm install**
 Run the development server:
 
 npm run dev
