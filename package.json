@@ -42,6 +42,8 @@
     "@supabase/supabase-js": "^2.49.4",
     "@tanstack/react-query": "^5.56.2",
     "@types/uuid": "^10.0.0",
+    "aws-sdk": "^2.1692.0",
+    "bcryptjs": "^3.0.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "^1.0.0",
@@ -49,6 +51,7 @@
     "embla-carousel-react": "^8.3.0",
     "highlight.js": "^11.9.0",
     "input-otp": "^1.2.4",
+    "jsonwebtoken": "^9.0.3",
     "lucide-react": "^0.462.0",
     "marked": "^12.0.1",
     "next-themes": "^0.3.0",
@@ -83,5 +86,10 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1"
-  }
+  },
+  "description": "A scalable cloud management application built with **React**, **TypeScript**, and **Vite**.   This project allows you to manage multi-region cloud infrastructure with auto-scaling, load balancers, and other AWS-like services in a simple interface.",
+  "main": "eslint.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
